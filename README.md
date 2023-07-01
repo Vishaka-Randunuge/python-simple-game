@@ -21,5 +21,5 @@ Made with python
 <h3>game drawn</h3>
 <img src="https://github.com/Vishaka-Randunuge/python-simple-game/blob/main/python3.png" alt="Alt text" title="Optional title">
 
-<h3can play the game again and again with the "Restart" button</h3>
+<h3>can play the game again and again with the "Restart" button</h3>
 
