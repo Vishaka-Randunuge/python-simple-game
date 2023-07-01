@@ -1,9 +1,8 @@
 # python-simple-game
-# To-Do-List
+# Tic-Tac-Toe
 Made with python
 
 <h1 align="center">Tic-Tac-Toe</h1>
-<h3 align="center">modern to-do list app app written in CSS,HTML and Javascript</h3>
 
 <h5>Classic game made with python</h5>
 
