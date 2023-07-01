@@ -14,7 +14,7 @@ Made with python
 <img src="https://github.com/Vishaka-Randunuge/python-simple-game/blob/main/python1.png" alt="Alt text" title="Optional title">
 
 <h3>Win combination. just as the classic game</h3>
-<h4>Tasks can be checked and moved to the completed tasks section<h4>
+
 <img src="https://github.com/Vishaka-Randunuge/python-simple-game/blob/main/python2.png" alt="Alt text" title="Optional title">
 
   
