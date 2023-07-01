@@ -9,16 +9,17 @@ Made with python
 
 
 
-<h3>game's balck start</h3>
-<img src="https://github.com/Vishaka-Randunuge/To-Do-List/blob/main/to-do-list-all.jpg" alt="Alt text" title="Optional title">
+<h3>game's blank start</h3>
+
+<img src="https://github.com/Vishaka-Randunuge/python-simple-game/blob/main/python1.png" alt="Alt text" title="Optional title">
 
 <h3>Win combination. just as the classic game</h3>
 <h4>Tasks can be checked and moved to the completed tasks section<h4>
-<img src="https://github.com/Vishaka-Randunuge/To-Do-List/blob/main/to-do-list-complete.jpg" alt="Alt text" title="Optional title">
+<img src="https://github.com/Vishaka-Randunuge/python-simple-game/blob/main/python2.png" alt="Alt text" title="Optional title">
 
   
 <h3>game drawn</h3>
-<img src="https://github.com/Vishaka-Randunuge/To-Do-List/blob/main/to-do-list-pending.jpg" alt="Alt text" title="Optional title">
+<img src="https://github.com/Vishaka-Randunuge/python-simple-game/blob/main/python3.png" alt="Alt text" title="Optional title">
 
 <h3can play the game again and again with the "Restart" button</h3>
 
